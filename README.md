@@ -3,7 +3,7 @@
 #### I'm a software developer living and working in Brazil.
 
 - 👷 I'm currently working as a backend software engineer.
-- 💻 My main language is C# (.NET), but I also know C++ and SQL.
+- 💻 My main language is C# (.NET | .NET Core), but I also know C++ and SQL.
 - ☁️ I'm currently learning about AWS
 - 📧 Reach me [contato@alexandrecarvalho.dev.br](mailto:contato@alexandrecarvalho.dev.br)
 
