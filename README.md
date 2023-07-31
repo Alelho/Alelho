@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software developer living and working in Brazil.
+#### I'm a senior software developer living and working in Brazil.
 
 - 👷 I'm currently working as a backend software engineer.
 - 💻 My main language is C# (.NET | .NET Core), but I also know C++ and SQL.
