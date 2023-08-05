@@ -3,8 +3,7 @@
 #### I'm a senior software developer living and working in Brazil.
 
 - 👷 I'm currently working as a backend software engineer.
-- 💻 My main language is C# (.NET | .NET Core), but I also know C++ and SQL.
-- ☁️ I'm currently learning about AWS
+- 💻 I have 8 years of experience in software development, specializing in creating APIs and data processing systems. My primary programming language is C# with the .NET and .NET Core frameworks. Additionally, I have basic knowledge of JavaScript. Currently, I am focusing on expanding my expertise in cloud computing, with a particular emphasis on AWS (Amazon Web Services)
 - 📧 Reach me [contato@alexandrecarvalho.dev.br](mailto:contato@alexandrecarvalho.dev.br)
 
 [![Linkedin: Alexandre](https://img.shields.io/badge/-Alexandre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ac-alexandre-carvalho/)](https://www.linkedin.com/in/ac-alexandre-carvalho/)
